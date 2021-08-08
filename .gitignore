@@ -1,0 +1,7 @@
+plan.out
+**/.terraform
+build.log
+.vscode
+*.tfstate.*
+*.tfstate
+**/.terraform.lock.hcl
